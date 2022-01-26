@@ -1,8 +1,8 @@
 //
 //  SceneDelegate.swift
-//  mkmkkm
+//  testtt
 //
-//  Created by ersun alkan on 28.04.2021.
+//  Created by ersun alkan on 26.01.2022.
 //
 
 import UIKit
